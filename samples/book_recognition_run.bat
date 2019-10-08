@@ -1,0 +1,2 @@
+python book_recognition_sample.py
+pause
